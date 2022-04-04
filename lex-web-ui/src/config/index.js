@@ -199,7 +199,7 @@ const configDefault = {
     showMessageDate: true,
 
     // bot avatar image URL
-    avatarImageUrl: '',
+    avatarImageUrl: 'avatar.jpg',
 
     // agent avatar image URL ( if live Chat is enabled)
     agentAvatarImageUrl: '',
